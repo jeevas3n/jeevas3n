@@ -17,7 +17,6 @@
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 
 ### 🌐 Web Development
